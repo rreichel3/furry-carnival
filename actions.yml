@@ -3,5 +3,5 @@ description: 'Greet someone'
 runs:
   using: "composite"
   steps:
-    - run: echo "I'm the original commit"
+    - run: echo "I'm the new commit"
       shell: bash
